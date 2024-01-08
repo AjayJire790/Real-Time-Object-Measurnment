@@ -1,0 +1,7 @@
+path: data/fold0
+train: data/fold0/images/train
+val: data/fold0/images/val
+test:
+
+names:
+    0: car
